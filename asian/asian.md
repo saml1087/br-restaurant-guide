@@ -1,5 +1,5 @@
 # Bay Ridge Restaurant Guide
-## [Asian](asian.md)
+## [Asian](../asian.md)
 ---
 Select a specific Asian food:
 ## [Chinese](../chinese.md)
